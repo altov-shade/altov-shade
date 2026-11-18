@@ -16,6 +16,10 @@ Interactive baseball coaching workspace with animated play sequences, drawing to
 
 Forecasts whether a new tool will reach its adoption goal and shows how better repeat use changes the odds. [Live demo](https://altov-shade.github.io/tool-adoption-forecast/)
 
+### [Delivery Forecast Studio](https://github.com/altov-shade/delivery-forecast-studio)
+
+Fixed-seed Monte Carlo forecast of launch date, final cost, and delivery risk for a fictional system replacement, comparing delay, contractor, and phased-launch scenarios. [Live demo](https://altov-shade.github.io/delivery-forecast-studio/)
+
 ### [AltoV Beauty Shade Finder](https://github.com/altov-shade/altovbeauty-shade-finder-showcase)
 
 AI-assisted foundation shade matching for AltoV Beauty, helping customers discover shades for every complexion.
