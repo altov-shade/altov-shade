@@ -12,6 +12,10 @@ Interactive baseball coaching workspace with animated play sequences, drawing to
 
 [Live demo](https://ag-pitching-lab.vercel.app) · The source repository is private.
 
+### [Tool Adoption Forecast](https://github.com/altov-shade/tool-adoption-forecast)
+
+Forecasts whether a new tool will reach its adoption goal and shows how better repeat use changes the odds. [Live demo](https://altov-shade.github.io/tool-adoption-forecast/)
+
 ### [AltoV Beauty Shade Finder](https://github.com/altov-shade/altovbeauty-shade-finder-showcase)
 
 AI-assisted foundation shade matching for AltoV Beauty, helping customers discover shades for every complexion.
