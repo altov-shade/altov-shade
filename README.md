@@ -14,6 +14,12 @@ Should marketing fix activation before buying more sign-ups? Diagnose a trial fu
 
 [Live demo](https://altov-shade.github.io/growth-experiment-studio/) · [Source](https://github.com/altov-shade/growth-experiment-studio)
 
+### [Customer Discovery Studio](https://github.com/altov-shade/customer-discovery-studio)
+
+Review simulated customer interviews, support tickets, and funnel data to decide what to investigate next. Build a discovery brief that shows what evidence would change your mind.
+
+[Live demo](https://altov-shade.github.io/customer-discovery-studio/) · [Source](https://github.com/altov-shade/customer-discovery-studio)
+
 ### [Alto V Beauty Shade Finder](https://github.com/altov-shade/altovbeauty-shade-finder-showcase)
 
 Helps customers find a foundation shade online, where undertone and lighting make choosing hard. A live product for Alto V Beauty, not simulated.
