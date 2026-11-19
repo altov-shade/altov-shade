@@ -36,6 +36,5 @@ Helps customers find a foundation shade online, where undertone and lighting mak
 
 - **[AG Pitching Lab](https://ag-pitching-lab.vercel.app)**: baseball coaching workspace with animated plays, drills, and shareable sheets. Source is private.
 - **[SMC Operations Assistant](https://github.com/altov-shade/smc-operations-assistant)**: retrieval-style chat assistant for the fictional Southern Metro Conference. [Live demo](https://smc-operations-assistant.vercel.app)
-- **[Targeter](https://github.com/altov-shade/targeter-app)**: AI-powered sponsorship targeting tool. [Live demo](https://targeter-app.vercel.app)
 - **[Partnership Intelligence Platform](https://github.com/altov-shade/partnership-intelligence-platform)**: AI research tool for sponsorships and business development.
 - **[Pirate Connect 360](https://github.com/altov-shade/pirate-connect-360-showcase)**: concept for an alumni networking platform with AI-assisted community management.
