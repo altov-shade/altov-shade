@@ -14,6 +14,12 @@ Should marketing fix activation before buying more sign-ups? Diagnose a trial fu
 
 [Live demo](https://altov-shade.github.io/growth-experiment-studio/) · [Source](https://github.com/altov-shade/growth-experiment-studio)
 
+### [Alto V Beauty Shade Finder](https://github.com/altov-shade/altovbeauty-shade-finder-showcase)
+
+Helps customers find a foundation shade online, where undertone and lighting make choosing hard. A live product for Alto V Beauty, not simulated.
+
+[Live demo](https://shade.altovbeauty.com/powder-foundation/) · [Case study](https://github.com/altov-shade/altovbeauty-shade-finder-showcase) (the application source is private)
+
 ### [Delivery Forecast Studio](https://github.com/altov-shade/delivery-forecast-studio)
 
 Should a system replacement delay, add a contractor, or launch in phases? Compares launch date, cost, and delivery risk for a fictional company. *Fixed-seed simulation on fictional data.*
@@ -25,12 +31,6 @@ Should a system replacement delay, add a contractor, or launch in phases? Compar
 Will a new AI tool reach its adoption goal, and how much does better repeat use change the odds? *Simulated outcomes on fictional data.*
 
 [Live demo](https://altov-shade.github.io/tool-adoption-forecast/) · [Source](https://github.com/altov-shade/tool-adoption-forecast)
-
-### [Alto V Beauty Shade Finder](https://github.com/altov-shade/altovbeauty-shade-finder-showcase)
-
-Helps customers find a foundation shade online, where undertone and lighting make choosing hard. A live product for Alto V Beauty, not simulated.
-
-[Live demo](https://shade.altovbeauty.com/powder-foundation/) · [Case study](https://github.com/altov-shade/altovbeauty-shade-finder-showcase) (the application source is private)
 
 ## More Projects
 
