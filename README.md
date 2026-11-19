@@ -1,41 +1,41 @@
-# Hi, I'm Alto Gary
+# Altovise “Alto” Gary
 
-Sports & entertainment. Marketing. AI. Building practical AI systems that help businesses and teams work smarter.
+**Growth Marketing · AI Enablement · Business Transformation**
+
+I build interactive tools that make business decisions easier to see: growth experiments, software adoption, and delivery risk. I also founded Alto V Beauty and built its foundation shade finder.
 
 📍 Raleigh, NC
 
-## Projects
+## Featured Projects
 
-### [AG Pitching Lab](https://ag-pitching-lab.vercel.app)
+### [Growth Experiment Studio](https://github.com/altov-shade/growth-experiment-studio)
 
-Interactive baseball coaching workspace with animated play sequences, drawing tools, pitching drills, practice planning, local video review, and shareable coaching sheets.
+Should marketing fix activation before buying more sign-ups? Diagnose a trial funnel, test two hypotheses, then decide to roll out, refine, or stop from A/B results. *All data and results are simulated.*
 
-[Live demo](https://ag-pitching-lab.vercel.app) · The source repository is private.
-
-### [Tool Adoption Forecast](https://github.com/altov-shade/tool-adoption-forecast)
-
-Forecasts whether a new tool will reach its adoption goal and shows how better repeat use changes the odds. [Live demo](https://altov-shade.github.io/tool-adoption-forecast/)
+[Live demo](https://altov-shade.github.io/growth-experiment-studio/) · [Source](https://github.com/altov-shade/growth-experiment-studio)
 
 ### [Delivery Forecast Studio](https://github.com/altov-shade/delivery-forecast-studio)
 
-Fixed-seed Monte Carlo forecast of launch date, final cost, and delivery risk for a fictional system replacement, comparing delay, contractor, and phased-launch scenarios. [Live demo](https://altov-shade.github.io/delivery-forecast-studio/)
+Should a system replacement delay, add a contractor, or launch in phases? Compares launch date, cost, and delivery risk for a fictional company. *Fixed-seed simulation on fictional data.*
 
-### [AltoV Beauty Shade Finder](https://github.com/altov-shade/altovbeauty-shade-finder-showcase)
+[Live demo](https://altov-shade.github.io/delivery-forecast-studio/) · [Source](https://github.com/altov-shade/delivery-forecast-studio)
 
-AI-assisted foundation shade matching for AltoV Beauty, helping customers discover shades for every complexion.
+### [Tool Adoption Forecast](https://github.com/altov-shade/tool-adoption-forecast)
 
-### [Pirate Connect 360](https://github.com/altov-shade/pirate-connect-360-showcase)
+Will a new AI tool reach its adoption goal, and how much does better repeat use change the odds? *Simulated outcomes on fictional data.*
 
-Interactive ECU alumni networking and engagement platform concept featuring AI-assisted community management.
+[Live demo](https://altov-shade.github.io/tool-adoption-forecast/) · [Source](https://github.com/altov-shade/tool-adoption-forecast)
 
-### [Partnership Intelligence Platform](https://github.com/altov-shade/partnership-intelligence-platform)
+### [Alto V Beauty Shade Finder](https://github.com/altov-shade/altovbeauty-shade-finder-showcase)
 
-AI-powered partnership intelligence tool for sponsorship research, strategic insights, and business development.
+Helps customers find a foundation shade online, where undertone and lighting make choosing hard. A live product for Alto V Beauty, not simulated.
 
-### [SMC Operations Assistant](https://github.com/altov-shade/smc-operations-assistant)
+[Live demo](https://shade.altovbeauty.com/powder-foundation/) · [Case study](https://github.com/altov-shade/altovbeauty-shade-finder-showcase) (the application source is private)
 
-Retrieval-style chat assistant for the fictional Southern Metro Conference. Portfolio demo built on Next.js + Claude API. [Live demo](https://smc-operations-assistant.vercel.app)
+## More Projects
 
-### [Targeter](https://github.com/altov-shade/targeter-app)
-
-AI-powered sponsorship targeting tool. [Live demo](https://targeter-app.vercel.app)
+- **[AG Pitching Lab](https://ag-pitching-lab.vercel.app)**: baseball coaching workspace with animated plays, drills, and shareable sheets. Source is private.
+- **[SMC Operations Assistant](https://github.com/altov-shade/smc-operations-assistant)**: retrieval-style chat assistant for the fictional Southern Metro Conference. [Live demo](https://smc-operations-assistant.vercel.app)
+- **[Targeter](https://github.com/altov-shade/targeter-app)**: AI-powered sponsorship targeting tool. [Live demo](https://targeter-app.vercel.app)
+- **[Partnership Intelligence Platform](https://github.com/altov-shade/partnership-intelligence-platform)**: AI research tool for sponsorships and business development.
+- **[Pirate Connect 360](https://github.com/altov-shade/pirate-connect-360-showcase)**: concept for an alumni networking platform with AI-assisted community management.
